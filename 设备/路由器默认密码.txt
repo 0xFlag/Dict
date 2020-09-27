@@ -1,3 +1,16 @@
+超级账号：CMCCAdmin
+超级密码：aDm8H%MdA
+超级用户名:telecomadmin
+超级密码:nE7jA%5m
+用户名 telecomadmin
+密码 admintelecom
+超级用户名 : fiberhomehg2×0
+超级密码 : hg2×0
+超级帐户名是：admin
+密码：Cmcc10086#
+华为HS8545M
+帐号CMCCAdmin
+密码Cmcc10086#
 全向QL168010.0.0.2，用户名admin密码是qxcomm1680，管理员密码是qxcommsupport 
 全向QL1880192.168.1.1，用户名root密码是root 
 全向QL168810.0.0.2，用户名admin；密码为qxcomm1688 
