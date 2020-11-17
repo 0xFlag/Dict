@@ -1,3 +1,14 @@
-iSecure Center
-用户名：admin
-密码：hik12345+
+<table>
+	<tr>
+		<td>设备类型</td>
+		<td>设备型号</td>
+		<td>默认用户名</td>
+		<td>默认用户名</td>
+	</tr>
+	<tr>
+		<td rowspan="1">海康威视</td>
+		<td>HIKVISION iSecure Center</td>
+		<td>admin</td>
+		<td>hik12345+</td>
+	</tr>
+</table>
