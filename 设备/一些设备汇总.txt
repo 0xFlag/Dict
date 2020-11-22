@@ -143,10 +143,10 @@ netscreen        netscreen
 默认的管理账号为hillstone，密码为hillstone
 
 
-安恒的明御防火墙 
+安恒明御防火墙 
 admin/adminadmin/1qaz@WSX
 
-某堡垒机
+齐治科技堡垒机
 shterm/shterm
 
 天融信的vpn
