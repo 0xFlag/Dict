@@ -16,7 +16,7 @@ EudemonJuniper防火墙：netscreen    netscreen
 迪普 192.168.0.1 默认的用户名和密码（admin/admin_default)
 山石 192.168.1.1 默认的管理账号为hillstone，密码为hillstone
 安恒的明御防火墙 admin/adminadmin
-某堡垒机 shterm/shterm
+齐治科技堡垒机堡垒机 shterm/shterm
 天融信的vpn test/123456
 Logbase运维安全管理系统（思福迪堡垒机）:admin 密码：safetybase
 华为PowerEcho:admin 密码：Changeme_123
