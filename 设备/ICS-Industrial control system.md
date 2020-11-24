@@ -33,4 +33,13 @@
 		<td>供水、水处理</td>
 		<td>Modbus<br>Profibus<br>DNP3<br>GE-SRTP</td>
 	</tr>
+	<tr>
+		<td rowspan="5">其他</td>
+		<td>轧钢</td>
+		<td>GE-SRTR</td>
+	</tr>
+	<tr>
+		<td>楼宇控制系统（如照明、安保、消防系统）</td>
+		<td>Bacnet<br>Profibus<br>Tridium Niagara Fox 专用协议<br>MOXA NPORT 系列专用协议</td>
+	</tr>
 </table>
