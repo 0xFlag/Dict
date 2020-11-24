@@ -146,6 +146,6 @@
 		<td>KW-Software GmbH（德国科维公司）</td>
 		<td>ProConOs</td>
 		<td>TCP/20547</td>
-		<td>ProConOs专用协议</td>
+		<td>ProConOs 专用协议</td>
 	</tr>
 </table>
