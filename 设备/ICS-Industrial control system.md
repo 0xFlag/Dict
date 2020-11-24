@@ -92,4 +92,10 @@
 		<td>UDP/5006</td>
 		<td>MELSOFT protocol</td>
 	</tr>
+	<tr>
+		<td>OPTO 22(奥普图)</td>
+		<td></td>
+		<td>TCP/44818</td>
+		<td>EtherNet/IP</td>
+	</tr>
 </table>
