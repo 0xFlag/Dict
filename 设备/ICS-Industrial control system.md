@@ -98,4 +98,18 @@
 		<td>TCP/44818</td>
 		<td>EtherNet/IP</td>
 	</tr>
+	<tr>
+		<td rowspan="3">OMRON（欧姆龙）</td>
+		<td rowspan="3">CJ2</td>
+		<td>TCP/2001</td>
+		<td>OPTO 22 EtherNet</td>
+	</tr>
+	<tr>
+		<td>TCP/44818</td>
+		<td>EtherNet/IP</td>
+	</tr>
+	<tr>
+		<td>TCP/9600</td>
+		<td>OMRON FINS</td>
+	</tr>
 </table>
