@@ -42,4 +42,16 @@
 		<td>楼宇控制系统（如照明、安保、消防系统）</td>
 		<td>Bacnet<br>Profibus<br>Tridium Niagara Fox 专用协议<br>MOXA NPORT 系列专用协议</td>
 	</tr>
+	<tr>
+		<td>重电设备、卫星、防御系统、电梯及自动扶梯、汽车用电子用品、空调、通风设备</td>
+		<td>MELSEC-Q</td>
+	</tr>
+	<tr>
+		<td>家庭智能化</td>
+		<td>ilon_Smartserver</td>
+	</tr>
+	<tr>
+		<td>工矿自动化</td>
+		<td>proconos 协议</td>
+	</tr>
 </table>
