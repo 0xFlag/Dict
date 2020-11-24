@@ -1,6 +1,6 @@
 <table>
 	<tr>
-		<td colspan="3">**行业专用协议**</td>
+		<td colspan="3">行业专用协议</td>
 	</tr>
 	<tr>
 		<td>行业</td>
