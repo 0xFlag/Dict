@@ -10,7 +10,7 @@
 	<tr>
 		<td rowspan="2">电力</td>
 		<td>变电站自动化</td>
-		<td rowspan="2">Modbus<br>Profibus<br>DNP3<br>IEC 60870-5-101/104<br>ICCP(IEC60870-6,TASE.2)<br>IEC 61850</td>
+		<td rowspan="2">Modbus<br>Profibus<br>DNP3<br>IEC 60870-5-101/104<br>ICCP(IEC60870-6、TASE.2)<br>IEC 61850</td>
 	</tr>
 	<tr>
 		<td>调度自动化</td>
