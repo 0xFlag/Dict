@@ -82,4 +82,14 @@
 		<td>TCP/18245</td>
 		<td>GE SRTP</td>
 	</tr>
+	<tr>
+		<td rowspan="2">Mitsubishi Electric（三菱电机）</td>
+		<td rowspan="2">Q Series</td>
+		<td>TCP/5007</td>
+		<td>MELSOFT protocol</td>
+	</tr>
+	<tr>
+		<td>UDP/5006</td>
+		<td>MELSOFT protocol</td>
+	</tr>
 </table>
