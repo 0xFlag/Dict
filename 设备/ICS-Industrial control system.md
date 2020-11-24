@@ -20,4 +20,9 @@
 		<td>油气管线、油气井</td>
 		<td rowspan="2">Modbus<br>Profibus<br>DNP3<br>IEC 60870-5-101/104<br>ICCP(IEC60870-6,TASE.2)<br>IEC 61850</td>
 	</tr>
+	</tr>
+		<tr>
+		<td rowspan="3">市政</td>
+		<td>供电、供暖、供气</td>
+	</tr>
 </table>
