@@ -112,4 +112,28 @@
 		<td>TCP/9600</td>
 		<td>OMRON FINS</td>
 	</tr>
+	<tr>
+		<td>Schneider Electric（施耐德）</td>
+		<td>Quantum</td>
+		<td>TCP/502</td>
+		<td>Modbus/TCP</td>
+	</tr>
+	<tr>
+		<td>Siemens（西门子）</td>
+		<td>S7 Series</td>
+		<td>TCP/102</td>
+		<td>ISO-TSAP</td>
+	</tr>
+	<tr>
+		<td>MOXA（摩莎）</td>
+		<td>Nport</td>
+		<td>TCP/4800</td>
+		<td>MOXA NPORT 系列专用协议</td>
+	</tr>
+	<tr>
+		<td>ECHELON公司</td>
+		<td>iLon_SmartServer</td>
+		<td>TCP/1628</td>
+		<td>iLon_SmartServer 专用协议</td>
+	</tr>
 </table>
