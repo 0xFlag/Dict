@@ -55,3 +55,25 @@
 		<td>proconos 协议</td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<td colspan="4">厂商PLC以太网通信模块和专用协议</td>
+	</tr>
+	<tr>
+		<td>厂商</td>
+		<td>产品</td>
+		<td>端口</td>
+		<td>协议</td>
+	</tr>
+	<tr>
+		<td rowspan="2">AB（罗克韦尔）</td>
+		<td>Control logix</td>
+		<td>TCP/44818</td>
+		<td>EtherNet/IP</td>
+	</tr>
+	<tr>
+		<td>Compact logix</td>
+		<td>TCP/44818</td>
+		<td>EtherNet/IP</td>
+	</tr>
+</table>
