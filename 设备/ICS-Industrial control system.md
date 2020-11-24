@@ -76,4 +76,10 @@
 		<td>TCP/44818</td>
 		<td>EtherNet/IP</td>
 	</tr>
+	<tr>
+		<td>General Electric（通用电气）</td>
+		<td>RX3i</td>
+		<td>TCP/18245</td>
+		<td>GE SRTP</td>
+	</tr>
 </table>
