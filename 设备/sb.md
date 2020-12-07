@@ -254,6 +254,14 @@
 		<td>-</td>
 	</tr>
 	<tr>
+	<tr>
+		<td>中新网安</td>
+		<td>中新金盾硬件防火墙</td>
+		<td>192.168.105.1:28099</td>
+		<td>admin</td>
+		<td>123</td>
+		<td>-</td>
+	</tr>
 		<td rowspan="3">海峡信息</td>
 		<td rowspan="3">黑盾防火墙</td>
 		<td rowspan="3">DMZ口:<br>10.1.0.1/16<br>172.16.0.1/16<br>192.168.0.1/16<br>管理主机IP:<br>10.1.0.2/16<br>172.16.0.2/16<br>192.168.0.2/16</td>
@@ -291,6 +299,14 @@
 		<td>192.168.5.160</td>
 		<td>csadmin</td>
 		<td>colasoft</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>Juniper瞻博网络</td>
+		<td>SSG-5防火墙</td>
+		<td>192.168.1.1</td>
+		<td>netscreen</td>
+		<td>netscreen</td>
 		<td>-</td>
 	</tr>
 	<tr>
