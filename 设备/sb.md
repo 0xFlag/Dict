@@ -263,7 +263,7 @@
 		<td>abc123</td>
 	</tr>
 	<tr>
-		<td>飞塔</td>
+		<td>Fortinet飞塔</td>
 		<td>飞塔防火墙</td>
 		<td>-</td>
 		<td>admin</td>
