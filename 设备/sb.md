@@ -113,7 +113,7 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="10">网御</td>
+		<td rowspan="12">网御</td>
 		<td>网御漏洞扫描系统</td>
 		<td>-</td>
 		<td>leadsec</td>
@@ -170,5 +170,16 @@
 	</tr>
 	<tr>
 		<td>admin</td>
+	</tr>
+	<tr>
+		<td rowspan="2">联想网御入侵检测系统IDS N2000</td>
+		<td rowspan="2">-</td>
+		<td>root</td>
+		<td>111111</td>
+		<td rowspan="2">-</td>
+	</tr>
+	<tr>
+		<td>admin</td>
+		<td>admin123</td>
 	</tr>
 	</table>
