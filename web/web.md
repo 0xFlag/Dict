@@ -1,6 +1,6 @@
 <table>
 	<tr>
-		<td>名称</td>
+		<td>name</td>
 		<td>username</td>
 		<td>password</td>
 	</tr>
