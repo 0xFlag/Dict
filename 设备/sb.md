@@ -202,4 +202,26 @@
 	<tr>
 		<td>adm</td>
 	</tr>
+	<tr>
+		<td rowspan="3">天融信</td>
+		<td>网络卫士入侵检测系统</td>
+		<td>-</td>
+		<td>admin</td>
+		<td>talent</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>防火墙NGFW4000</td>
+		<td>192.168.1.250</td>
+		<td>superman</td>
+		<td>talent</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>数据库审计系统(TA-DB)</td>
+		<td>192.168.1.254/24</td>
+		<td>superman</td>
+		<td>talent</td>
+		<td>-</td>
+	</tr>
 	</table>
