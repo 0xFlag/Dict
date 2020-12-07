@@ -113,7 +113,7 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="6">网御</td>
+		<td rowspan="7">网御</td>
 		<td>网御漏洞扫描系统</td>
 		<td>-</td>
 		<td>leadsec</td>
@@ -144,6 +144,13 @@
 		<td>-</td>
 		<td>admin</td>
 		<td>admin123</td>
+		<td>-</td>
+	</tr>
+	</tr>
+		<td>联想网御防火墙PowerV</td>
+		<td>-</td>
+		<td>administrator</td>
+		<td>administrator</td>
 		<td>-</td>
 	</tr>
 	</table>
