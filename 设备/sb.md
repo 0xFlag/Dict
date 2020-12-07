@@ -113,7 +113,7 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="7">网御</td>
+		<td rowspan="8">网御</td>
 		<td>网御漏洞扫描系统</td>
 		<td>-</td>
 		<td>leadsec</td>
@@ -151,6 +151,13 @@
 		<td>-</td>
 		<td>administrator</td>
 		<td>administrator</td>
+		<td>-</td>
+	</tr>
+	</tr>
+		<td>联想网御入侵检测系统</td>
+		<td>-</td>
+		<td>lenovo</td>
+		<td>default</td>
 		<td>-</td>
 	</tr>
 	</table>
