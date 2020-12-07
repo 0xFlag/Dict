@@ -36,6 +36,20 @@
 		<td>-</td>
 	</tr>
 	<tr>
+		<td>负载均衡AD v3.9</td>
+		<td>-</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>负载均衡AD v5.1</td>
+		<td>-</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>WAC (WNS V2.6)</td>
 		<td>-</td>
 		<td>admin</td>
@@ -85,27 +99,6 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td>AF(NGAF V4.3)</td>
-		<td>-</td>
-		<td>admin</td>
-		<td>admin</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>负载均衡AD v3.9</td>
-		<td>-</td>
-		<td>admin</td>
-		<td>admin</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>负载均衡AD v5.1</td>
-		<td>-</td>
-		<td>admin</td>
-		<td>admin</td>
-		<td>-</td>
-	</tr>
-	<tr>
 		<td>上网行为管理设备数据中心</td>
 		<td>-</td>
 		<td>Admin</td>
@@ -135,7 +128,7 @@
 	</tr>
 	<tr>
 		<td>联想网御防火墙</td>
-		<td>https://10.1.5.254:8888</td>
+		<td>10.1.5.254:8888</td>
 		<td>administrator</td>
 		<td>administrator</td>
 		<td>PIN码:12345678</td>
