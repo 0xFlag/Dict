@@ -113,7 +113,7 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td rowspan="8">网御</td>
+		<td rowspan="10">网御</td>
 		<td>网御漏洞扫描系统</td>
 		<td>-</td>
 		<td>leadsec</td>
@@ -133,31 +133,42 @@
 	<tr>
 		<td>adm</td>
 	</tr>
+	<tr>
 		<td>联想网御防火墙</td>
 		<td>10.1.5.254:8888</td>
 		<td>administrator</td>
 		<td>administrator</td>
 		<td>PIN码:12345678</td>
 	</tr>
-	</tr>
+	<tr>
 		<td>联想网御事件服务器 Ver 3.6</td>
 		<td>-</td>
 		<td>admin</td>
 		<td>admin123</td>
 		<td>-</td>
 	</tr>
-	</tr>
+	<tr>
 		<td>联想网御防火墙PowerV</td>
 		<td>-</td>
 		<td>administrator</td>
 		<td>administrator</td>
 		<td>-</td>
 	</tr>
-	</tr>
+	<tr>
 		<td>联想网御入侵检测系统</td>
 		<td>-</td>
 		<td>lenovo</td>
 		<td>default</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td rowspan="2">网御入侵检测系统V3.2.72.0</td>
+		<td rowspan="2">-</td>
+		<td>adm</td>
+		<td rowspan="2">leadsec32</td>
+		<td rowspan="2">-</td>
+	</tr>
+	<tr>
+		<td>admin</td>
 	</tr>
 	</table>
