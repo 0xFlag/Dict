@@ -224,4 +224,12 @@
 		<td>talent</td>
 		<td>-</td>
 	</tr>
+	<tr>
+		<td>科来软件</td>
+		<td>科来网络回溯分析系统</td>
+		<td>192.168.5.160</td>
+		<td>csadmin</td>
+		<td>colasoft</td>
+		<td>-</td>
+	</tr>
 	</table>
