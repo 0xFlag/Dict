@@ -295,6 +295,14 @@
 		<td>-</td>
 	</tr>
 	<tr>
+		<td>Websense</td>
+		<td>Websense邮件安全网关</td>
+		<td>-</td>
+		<td>administrator</td>
+		<td>admin</td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>梭子鱼</td>
 		<td>梭子鱼邮件存储网关</td>
 		<td>192.168.200.200:8000<br>192.168.1.200<br>10.1.1.200</td>
