@@ -1,8 +1,5 @@
 <table>
 	<tr>
-		<td colspan="3">行业专用协议</td>
-	</tr>
-	<tr>
 		<td>行业</td>
 		<td>细分</td>
 		<td>协议</td>
