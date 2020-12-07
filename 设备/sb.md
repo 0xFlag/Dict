@@ -135,7 +135,7 @@
 	</tr>
 	<tr>
 		<td>联想网御防火墙</td>
-		<td>10.1.5.254:8888</td>
+		<td>https://10.1.5.254:8888</td>
 		<td>administrator</td>
 		<td>administrator</td>
 		<td>PIN码:12345678</td>
