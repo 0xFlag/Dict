@@ -295,6 +295,26 @@
 		<td>-</td>
 	</tr>
 	<tr>
+		<td rowspan="4">eYou</td>
+		<td rowspan="4">亿邮邮件网关</td>
+		<td rowspan="4">-</td>
+		<td>eyouuser</td>
+		<td>eyou_admin</td>
+		<td rowspan="4">-</td>
+	</tr>
+	<tr>
+		<td>eyougw</td>
+		<td>admin@(eyou)</td>
+	</tr>
+	<tr>
+		<td>admin</td>
+		<td>+-ccccc</td>
+	</tr>
+	<tr>
+		<td>admin</td>
+		<td>cyouadmin</td>
+	</tr>
+	<tr>
 		<td>Websense</td>
 		<td>Websense邮件安全网关</td>
 		<td>-</td>
