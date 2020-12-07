@@ -1,8 +1,8 @@
 <table>
 	<tr>
-		<td>行业</td>
-		<td>细分</td>
-		<td>协议</td>
+		<td>名称</td>
+		<td>username</td>
+		<td>password</td>
 	</tr>
 	<tr>
 		<td rowspan="2">电力</td>
