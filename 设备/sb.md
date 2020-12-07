@@ -29,7 +29,7 @@
 		<td>-</td>
 	</tr>
 	<tr>
-		<td>负载均衡AD3.6</td>
+		<td>负载均衡AD v3.6</td>
 		<td>-</td>
 		<td>admin</td>
 		<td>admin</td>
