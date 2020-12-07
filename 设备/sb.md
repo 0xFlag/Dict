@@ -232,4 +232,12 @@
 		<td>colasoft</td>
 		<td>-</td>
 	</tr>
+	<tr>
+		<td>中控</td>
+		<td>中控考勤机web3.0</td>
+		<td>-</td>
+		<td>administrator</td>
+		<td>123456</td>
+		<td>-</td>
+	</tr>
 	</table>
