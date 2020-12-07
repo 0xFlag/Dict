@@ -210,7 +210,7 @@
 		<td>网络引擎:1234567</td>
 	</tr>
 	<tr>
-		<td rowspan="3">天融信</td>
+		<td rowspan="4">天融信</td>
 		<td>网络卫士入侵检测系统</td>
 		<td>-</td>
 		<td>admin</td>
@@ -227,6 +227,13 @@
 	<tr>
 		<td>数据库审计系统(TA-DB)</td>
 		<td>192.168.1.254/24</td>
+		<td>superman</td>
+		<td>talent</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>TopAudit日志审计系统</td>
+		<td>-</td>
 		<td>superman</td>
 		<td>talent</td>
 		<td>-</td>
