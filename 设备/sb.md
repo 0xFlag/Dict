@@ -176,7 +176,7 @@
 		<td>admin123</td>
 	</tr>
 	<tr>
-		<td rowspan="6">启明星辰</td>
+		<td rowspan="7">启明星辰</td>
 		<td rowspan="3">天阗入侵检测与管理系统 V6.0.3.1</td>
 		<td rowspan="3">-</td>
 		<td>Admin</td>
@@ -203,6 +203,13 @@
 		<td>adm</td>
 	</tr>
 	<tr>
+		<td>天玥网络安全审计系统V6.0</td>
+		<td>-</td>
+		<td>Admin</td>
+		<td>cyberaudit</td>
+		<td>网络引擎:1234567</td>
+	</tr>
+	<tr>
 		<td rowspan="3">天融信</td>
 		<td>网络卫士入侵检测系统</td>
 		<td>-</td>
@@ -222,6 +229,21 @@
 		<td>192.168.1.254/24</td>
 		<td>superman</td>
 		<td>talent</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td rowspan="2">思福迪</td>
+		<td>LogBase日志管理综合审计系统V4.0</td>
+		<td>IP: 10.10.10.10<br>MASK: 255.255.255.0<br>GETWAY: 192.168.1.254</td>
+		<td>admin</td>
+		<td>safetybase</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>Logbase运维安全管理系统(堡垒机)</td>
+		<td>-</td>
+		<td>admin</td>
+		<td>safetybase</td>
 		<td>-</td>
 	</tr>
 	<tr>
