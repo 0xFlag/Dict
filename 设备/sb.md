@@ -263,6 +263,14 @@
 		<td>abc123</td>
 	</tr>
 	<tr>
+		<td>方正信息</td>
+		<td>方正防火墙</td>
+		<td>10.7.1.253:55443</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>科来软件</td>
 		<td>科来网络回溯分析系统</td>
 		<td>192.168.5.160</td>
