@@ -263,6 +263,14 @@
 		<td>abc123</td>
 	</tr>
 	<tr>
+		<td>飞塔</td>
+		<td>飞塔防火墙</td>
+		<td>-</td>
+		<td>admin</td>
+		<td><空></td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>方正信息</td>
 		<td>方正防火墙</td>
 		<td>10.7.1.253:55443</td>
