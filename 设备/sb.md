@@ -247,6 +247,22 @@
 		<td>-</td>
 	</tr>
 	<tr>
+		<td rowspan="3">海峡信息</td>
+		<td rowspan="3">黑盾防火墙</td>
+		<td rowspan="3">DMZ口:<br>10.1.0.1/16<br>172.16.0.1/16<br>192.168.0.1/16<br>管理主机IP:<br>10.1.0.2/16<br>172.16.0.2/16<br>192.168.0.2/16</td>
+		<td>管理员:admin</td>
+		<td>admin</td>
+		<td rowspan="3">-</td>
+	</tr>
+	<tr>
+		<td>规则管理员:audit</td>
+		<td>abc123</td>
+	</tr>
+	<tr>
+		<td>审计:rule</td>
+		<td>abc123</td>
+	</tr>
+	<tr>
 		<td>科来软件</td>
 		<td>科来网络回溯分析系统</td>
 		<td>192.168.5.160</td>
