@@ -295,6 +295,14 @@
 		<td>abc123</td>
 	</tr>
 	<tr>
+		<td>Hillstone山石网科</td>
+		<td>Hillstone安全审计平台</td>
+		<td>192.168.1.254</td>
+		<td>hillstone</td>
+		<td>hillstone</td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>Fortinet飞塔</td>
 		<td>飞塔防火墙</td>
 		<td>-</td>
