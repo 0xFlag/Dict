@@ -295,6 +295,14 @@
 		<td>abc123</td>
 	</tr>
 	<tr>
+		<td>netentsec网康科技</td>
+		<td>NS-ICG</td>
+		<td>192.168.1.23</td>
+		<td>ns25000</td>
+		<td>ns25000</td>
+		<td>-</td>
+	</tr>
+	<tr>
 		<td>Hillstone山石网科</td>
 		<td>Hillstone安全审计平台</td>
 		<td>192.168.1.254</td>
