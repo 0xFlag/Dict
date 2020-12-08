@@ -176,7 +176,7 @@
 		<td>admin123</td>
 	</tr>
 	<tr>
-		<td rowspan="10">启明星辰</td>
+		<td rowspan="13">启明星辰</td>
 		<td rowspan="3">天阗入侵检测与管理系统 V6.0.3.1</td>
 		<td rowspan="3">-</td>
 		<td>Admin</td>
@@ -225,6 +225,21 @@
 		<td>venus</td>
 		<td>venustech60</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td rowspan="3">天清汉马USG防火墙V2.6.4.0</td>
+		<td rowspan="3">-</td>
+		<td>admin</td>
+		<td>venus.fw</td>
+		<td rowspan="3">-</td>
+	</tr>
+	<tr>
+		<td>Audit</td>
+		<td>venus.audit</td>
+	</tr>
+	<tr>
+		<td>useradmin</td>
+		<td>venus.user</td>
 	</tr>
 	<tr>
 		<td rowspan="4">天融信</td>
@@ -356,6 +371,14 @@
 		<td>-</td>
 		<td>admin</td>
 		<td>manager</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>中科新业</td>
+		<td>网络安全审计系统</td>
+		<td>-</td>
+		<td>admin</td>
+		<td>123456</td>
 		<td>-</td>
 	</tr>
 	<tr>
