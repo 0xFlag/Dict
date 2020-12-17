@@ -19,4 +19,9 @@
 		<td>apollo</td>
 		<td>admin</td>
 	</tr>
+	<tr>
+		<td>Glötzl(gloetzl) GLL-Server</td>
+		<td>Demo</td>
+		<td>Passwort!</td>
+	</tr>
 </table>
