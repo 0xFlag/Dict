@@ -3,6 +3,7 @@
 		<td>name</td>
 		<td>username</td>
 		<td>password</td>
+		<td>url</td>
 	</tr>
 	<tr>
 		<td>Zabbix</td>
