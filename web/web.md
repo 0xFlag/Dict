@@ -30,9 +30,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td rowspan="3">tomcat</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td rowspan="3">http://ip:8080/host-manager/html</td>
+	</tr>
+	<tr>
 		<td>tomcat</td>
-		<td>admin</td>
-		<td>admin</td>
-		<td>http://ip:8080/host-manager/html</td>
+		<td>tomcat</td>
+	</tr>
+	<tr>
+		<td>tomcat</td>
+		<td>s3cret</td>
 	</tr>
 </table>
