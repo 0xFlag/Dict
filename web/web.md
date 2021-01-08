@@ -29,4 +29,10 @@
 		<td>Passwort!</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>tomcat</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td>http://ip:8080/host-manager/html</td>
+	</tr>
 </table>
