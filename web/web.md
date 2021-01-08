@@ -69,4 +69,10 @@
 		<td>MapZone</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>zentao</td>
+		<td>admin</td>
+		<td>123456</td>
+		<td></td>
+	</tr>
 </table>
