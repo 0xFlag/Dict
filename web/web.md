@@ -63,4 +63,10 @@
 		<td>admin</td>
 		<td>admin</td>
 	</tr>
+	<tr>
+		<td>MapZone Server Login</td>
+		<td>MapZone</td>
+		<td>MapZone</td>
+		<td></td>
+	</tr>
 </table>
