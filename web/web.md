@@ -81,4 +81,15 @@
 		<td>admin</td>
 		<td>/admin/connections.jsp</td>
 	</tr>
+	<tr>
+		<td rowspan="2">RabbitMQ</td>
+		<td>guest</td>
+		<td>guest</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>admin</td>
+		<td>admin</td>\
+		<td></td>
+	</tr>
 </table>
