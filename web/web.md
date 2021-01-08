@@ -75,4 +75,10 @@
 		<td>123456</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>Apache ActiveMQ</td>
+		<td>admin</td>
+		<td>admin</td>
+		<td>/admin/connections.jsp</td>
+	</tr>
 </table>
