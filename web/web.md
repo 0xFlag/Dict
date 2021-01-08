@@ -49,4 +49,18 @@
 		<td>axis2</td>
 		<td>/axis2/axis2-admin/welcome</td>
 	</tr>
+	<tr>
+		<td rowspan="3">websphere</td>
+		<td>system</td>
+		<td>manager</td>
+		<td rowspan="3">9080</td>
+	</tr>
+	<tr>
+		<td>wasadmin</td>
+		<td>wasadmin</td>
+	</tr>
+	<tr>
+		<td>admin</td>
+		<td>admin</td>
+	</tr>
 </table>
