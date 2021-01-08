@@ -89,7 +89,7 @@
 	</tr>
 	<tr>
 		<td>admin</td>
-		<td>admin</td>\
+		<td>admin</td>
 		<td></td>
 	</tr>
 </table>
