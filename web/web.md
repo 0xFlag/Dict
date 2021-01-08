@@ -40,6 +40,10 @@
 		<td>tomcat</td>
 	</tr>
 	<tr>
+		<td>tomcat</td>
+		<td>s3cret</td>
+	</tr>
+	<tr>
 		<td>Apache axis2</td>
 		<td>admin</td>
 		<td>axis2</td>
