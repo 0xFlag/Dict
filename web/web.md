@@ -85,11 +85,10 @@
 		<td rowspan="2">RabbitMQ</td>
 		<td>guest</td>
 		<td>guest</td>
-		<td></td>
+		<td rowspan="2"></td>
 	</tr>
 	<tr>
 		<td>admin</td>
 		<td>admin</td>
-		<td></td>
 	</tr>
 </table>
